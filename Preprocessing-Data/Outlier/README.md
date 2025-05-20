@@ -20,7 +20,7 @@ This project focuses on detecting and handling outliers in the `winner_price` co
 ## 📁 Folder Structure
 ```
 data/
-    AA.csv
+    Data.csv
 
 notebooks/
     Outlier_Analysis_Clean.ipynb
