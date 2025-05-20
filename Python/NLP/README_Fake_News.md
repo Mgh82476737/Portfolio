@@ -42,6 +42,4 @@ requirements.txt
 ## ✅ Outcome
 The results indicate that **LSTM**, **Bi-LSTM**, and **Logistic Regression** models performed best in detecting fake versus real news, each achieving similarly high accuracy. Among deep learning models, both LSTM and Bi-LSTM demonstrated identical behavior during training and converged at the same pace across epochs. This consistency highlights their reliability and robustness for text classification tasks. The comparison confirms that deep learning methods are competitive with traditional approaches in handling natural language-based fake news detection.
 
-## 📎 Report (PDF)
-You can view the full report here
-👉 [Fake News Classifier Report](./report/Fake%20News%20Classifier.pdf)
+
