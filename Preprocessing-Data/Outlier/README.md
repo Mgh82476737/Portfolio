@@ -1,33 +1,33 @@
 # 🧪 Outlier Detection in Winner Price
 
-## 📌 هدف پروژه
-در این پروژه ستون `winner_price` برای شناسایی و حذف مقادیر پرت بررسی شده تا این داده‌ها برای مدل‌های یادگیری ماشین قابل اعتماد باشند.
+## 📌 Project Goal
+This project focuses on detecting and handling outliers in the `winner_price` column to ensure the data is clean and reliable for machine learning pipelines.
 
-## 📊 مراحل انجام شده
-- بررسی آماری اولیه داده‌ها
-- شناسایی Outlier با استفاده از:
-  - BoxPlot و KDE
-  - روش IQR
-- اعمال دو رویکرد:
-  - **Trimming:** حذف کامل مقادیر پرت
-  - **Capping:** محدود کردن مقادیر پرت به محدوده قابل قبول
+## 📊 Steps Performed
+- Initial descriptive statistics of the dataset
+- Outlier detection using:
+  - BoxPlot and KDE
+  - IQR method
+- Two approaches applied:
+  - **Trimming:** Remove extreme values completely
+  - **Capping:** Limit extreme values within an acceptable range
 
-## 🛠️ ابزارها و کتابخانه‌ها
+## 🛠️ Tools & Libraries Used
 - Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
+- pandas, numpy
+- matplotlib, seaborn
 
-## 📁 ساختار پوشه‌ها
+## 📁 Folder Structure
 ```
 data/
     AA.csv
 
 notebooks/
-    Outlier_Analysis.ipynb
+    Outlier_Analysis_Clean.ipynb
 
 README.md
 requirements.txt
 ```
 
-## 📌 نتیجه‌گیری
-هر دو رویکرد trimming و capping اجرا شده‌اند تا داده‌های نهایی آماده استفاده در مدل‌های یادگیری ماشین شوند.
+## ✅ Outcome
+Both trimming and capping were applied to prepare the dataset for downstream machine learning models, maintaining either accuracy or completeness depending on the method used.
