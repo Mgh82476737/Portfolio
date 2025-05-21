@@ -5,7 +5,7 @@ The goal of this project is to demonstrate core data cleaning skills on a simula
 
 ## 📦 Dataset Overview
 The dataset includes the following columns:
-- `Order ID`: Unique identifier (with some missing)
+- `Order ID`: Unique identifier 
 - `Customer Name`: Contains inconsistent casing and duplicates
 - `Order Date`: Dates in mixed formats
 - `Product Price`: Includes negative values
