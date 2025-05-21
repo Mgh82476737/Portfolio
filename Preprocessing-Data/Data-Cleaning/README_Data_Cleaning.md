@@ -5,12 +5,26 @@ The goal of this project is to demonstrate core data cleaning skills on a simula
 
 ## 📦 Dataset Overview
 The dataset includes the following columns:
-- `Order ID`: Unique identifier 
+- `Order ID`: Unique identifier (with some missing)
 - `Customer Name`: Contains inconsistent casing and duplicates
 - `Order Date`: Dates in mixed formats
 - `Product Price`: Includes negative values
 - `Quantity`: Includes missing and abnormal entries
 - `Shipping Address`: Incomplete or null values
+
+## 🧹 Data Issues and Cleaning Solutions
+
+| Problem Type           | Column             | Description                                                                 | Cleaning Approach                          |
+|------------------------|--------------------|-----------------------------------------------------------------------------|--------------------------------------------|
+| Missing Values         | Order ID           | Some records had no order ID (critical field)                              | Dropped rows with missing Order ID         |
+| Missing Values         | Shipping Address   | Incomplete or null address                                                  | Dropped rows with missing address          |
+| Missing Values         | Quantity           | Some records had missing product quantity                                  | Filled with median quantity                |
+| Inconsistent Formatting| Customer Name      | Mixed casing (e.g., "john doe", "John Doe")                                | Normalized using `.str.title()`            |
+| Incorrect Data Types   | Order Date         | Stored as string in DD/MM/YYYY format                                      | Converted to datetime                      |
+| Invalid Values         | Product Price      | Some prices were negative                                                  | Removed rows with negative prices          |
+| Duplicates             | All Columns        | Some fully duplicated rows                                                 | Removed using `drop_duplicates()`          |
+
+Each of these issues is addressed step-by-step in the notebook to produce a clean dataset ready for further analysis.
 
 ## 🛠️ Cleaning Tasks Performed
 - Detect and handle missing values
@@ -34,5 +48,4 @@ requirements.txt
 ```
 
 ## ✅ Outcome
-A cleaned version of the customer order dataset is prepared and ready for analysis or visualization. This project reflects essential data wrangling steps needed in all type of datasets.
-
+A cleaned version of the customer order dataset is prepared and ready for analysis or visualization. This project reflects essential data wrangling steps needed in real-world datasets.
