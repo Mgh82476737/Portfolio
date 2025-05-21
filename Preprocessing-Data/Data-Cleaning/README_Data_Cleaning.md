@@ -34,5 +34,5 @@ requirements.txt
 ```
 
 ## ✅ Outcome
-A cleaned version of the customer order dataset is prepared and ready for analysis or visualization. This project reflects essential data wrangling steps needed in real-world datasets.
+A cleaned version of the customer order dataset is prepared and ready for analysis or visualization. This project reflects essential data wrangling steps needed in all type of datasets.
 
