@@ -53,5 +53,5 @@ Business Analytics
 
 ## Contact
 
-LinkedIn: [your LinkedIn link](https://www.linkedin.com/in/morteza-ghazanfari/)  
-GitHub Lab: [link to data analytics lab repository](https://github.com/Mgh82476737/Data-Analytics-Lab/tree/main)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/morteza-ghazanfari/)  
+GitHub Lab: [data analytics lab repository](https://github.com/Mgh82476737/Data-Analytics-Lab/tree/main)
