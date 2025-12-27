@@ -47,7 +47,7 @@ to support managerial decision making.
 
 **Focus:** Pricing analytics, profitability analysis, scenario simulation  
 **Tools:** Python, pandas, numpy  
-🔗 Project:[link here](https://github.com/Mgh82476737/Portfolio/tree/main/pricing-analytics-discount-strategy)
+🔗 Project: [link here](https://github.com/Mgh82476737/Portfolio/tree/main/pricing-analytics-discount-strategy)
 
 ---
 
