@@ -57,7 +57,7 @@ assessment using real world data.
 
 **Focus:** Classification, applied machine learning  
 **Tools:** Python, scikit-learn  
-🔗 Project: link here
+🔗 Project: [link here](https://github.com/Mgh82476737/Portfolio/tree/main/hpv-risk-modelling)
 
 ---
 
