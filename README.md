@@ -39,7 +39,7 @@ The project applies analytical modelling techniques such as drawdown analysis an
 **Focus:** Business analytics, risk analysis, decision support  
 **Tools:** Python, SQL, pandas  
 
-🔗 Project: `liquidity-risk-cash-buffer`
+🔗 Project: [link here](https://github.com/Mgh82476737/Portfolio/tree/main/liquidity-risk-cash-buffer)
 
 ---
 
