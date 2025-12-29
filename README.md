@@ -30,13 +30,14 @@ are maintained separately in a dedicated lab repository.
 
 ## Featured Projects
 
-### 1. Workforce Forecasting and Predictive Analytics
-Time series forecasting and demand modelling to support workforce planning
-and operational decision making.
+### 1. Liquidity Risk and Cash Buffer Analysis
 
-**Focus:** Forecasting, analytics, decision support  
-**Tools:** Python, SQL, forecasting models  
-🔗 Project: link here
+Decision focused analytics project analysing historical cash balance dynamics to assess downside liquidity risk, cash buffer resilience, and stress conditions.
+The project uses drawdown based risk modelling to convert raw transactional cash flows into practical liquidity risk signals (Safe, Caution, Critical) for management decision making.
+
+Focus: Liquidity risk, downside analysis, decision support
+Tools: Python, SQL, pandas
+🔗 Project: liquidity-risk-cash-buffer
 
 ---
 
