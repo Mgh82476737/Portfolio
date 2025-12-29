@@ -35,8 +35,8 @@ are maintained separately in a dedicated lab repository.
 Decision focused analytics project analysing historical cash balance dynamics to assess downside liquidity risk, cash buffer resilience, and stress conditions.
 The project uses drawdown based risk modelling to convert raw transactional cash flows into practical liquidity risk signals (Safe, Caution, Critical) for management decision making.
 
-**Focus: Liquidity risk, downside analysis, decision support
-**Tools: Python, SQL, pandas
+**Focus:**  Liquidity risk, downside analysis, decision support
+**Tools:**  Python, SQL, pandas
 🔗 Project: liquidity-risk-cash-buffer
 
 ---
