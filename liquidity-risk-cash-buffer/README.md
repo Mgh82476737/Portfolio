@@ -91,8 +91,3 @@ The approach is lightweight, interpretable, and suitable for integration into op
 - **SQL** for data aggregation and preparation  
 - **Jupyter Notebook** for transparent, reproducible analysis  
 
----
-
-## Project Structure
-
-
