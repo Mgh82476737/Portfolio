@@ -1,14 +1,6 @@
-# Applied Data Scientist | Analytics & Predictive Modelling
+# Data Analyst | Operational & Performance Analytics
+I am a Data Analyst focused on turning complex, messy data into clear decisions that drive business performance. I help organisations understand what is happening in their operations, why it is happening, and what is likely to happen next. Using Python, SQL, and Power BI, I build end-to-end analytical solutions covering data cleaning, validation, predictive modelling, forecasting, and automated reporting. I have worked across operational, behavioural, and financial datasets, building pipelines and dashboards that replaced hours of manual reporting with reliable, real-time insights. 
 
-I am an applied data scientist focused on turning messy, real world data
-into clear, decision ready insights.
-
-My work sits at the intersection of data analytics, predictive modelling,
-and business problem solving, with hands on experience using Python, SQL,
-Power BI, and applied machine learning techniques.
-
-This portfolio presents a small number of carefully selected projects
-that are directly aligned with my CV and represent my strongest end to end work.
 
 ---
 
