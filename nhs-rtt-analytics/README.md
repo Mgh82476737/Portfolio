@@ -177,29 +177,6 @@ FactRTT (14.0M rows)
 See `LIMITATIONS.md` for full detail.
 
 ---
-
-## How to Use This Repository
-
-### For Interviews
-- **Portfolio piece:** Full end-to-end project demonstrating data collection → modelling → analysis → storytelling
-- **Technical depth:** Star schema, DAX, Figma design system, What-If parameters
-- **Business impact:** Quantified recommendations backed by 123M records
-- **UK-specific:** Healthcare context relevant to UK job market
-
-### For Learning
-- **Figma → Power BI workflow:** Pixel-perfect design-to-implementation (see `Build_Guide.pdf`)
-- **DAX patterns:** Time intelligence, conditional logic, RLS structure
-- **Documentation standards:** How to write for technical and business audiences
-
-### For Replication
-1. Clone this repo
-2. Download the `.pbix` file and open in Power BI Desktop
-3. Review the `Build_Guide.pdf` for Figma → Power BI rebuild process
-4. Inspect the data model, DAX measures, and theme file
-5. Read `DOCUMENTATION.md` for the complete project walkthrough
-
----
-
 ## Project Metrics
 
 | Dimension | Value |
