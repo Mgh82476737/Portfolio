@@ -228,40 +228,6 @@ See `LIMITATIONS.md` for full detail.
 
 ---
 
-## Files in This Repository
-
-```
-NHS-RTT-Analytics/
-├── README.md                              (this file)
-├── DOCUMENTATION.md                       (full project documentation, 14 sections)
-├── DATA_DICTIONARY.md                     (all fields, types, business logic)
-├── INSIGHTS_AND_RECOMMENDATIONS.md        (40+ findings + 10 recommendations)
-├── LIMITATIONS.md                         (caveats and data quality notes)
-│
-├── /powerbi/
-│   ├── NHS-r01.pbix                       (Power BI model, 30+ measures, 3 pages)
-│   └── NHS_Dashboard_Theme.json           (custom colour palette + typography)
-│
-├── /design/
-│   ├── NHS_Dashboard_Master_Build_Guide.pdf     (Figma → Power BI workflow, pixel coords)
-│   ├── NHS_Dashboard_Wireframes.pdf             (3 pages: The Gap, Where It Lives, The Lever)
-│   ├── Design_System.md                         (palette, typography, grid, component anatomy)
-│   └── /backgrounds/
-│       ├── NHS_Page1_TheGap.png                 (1920×1080, 2x scale)
-│       ├── NHS_Page2_WhereItLives.png
-│       └── NHS_Page3_TheLever.png
-│
-├── /data/
-│   ├── Exclusion_Log.md                   (9.4% of rows filtered, with reasons)
-│   └── Data_Lineage.md                    (source → cleaning → model)
-│
-└── /assets/
-    ├── Key_Metrics_Snapshot.png           (dashboard header)
-    └── The_Gap_Callout.png                (hero visualization)
-```
-
----
-
 ## Project Metrics
 
 | Dimension | Value |
