@@ -6,11 +6,11 @@
 
 ## Dashboard Preview
 
-![NHS RTT Dashboard Overview](Overview.png)
+![Overview](assets/Overview.png)
 
 *Overview page showing core KPIs: 104.8M patients waiting, 58.4% within 18-week target, 18.2 weeks average wait*
 
-![NHS RTT Dashboard Geography](assets/Geography.png)
+![Geography](assets/Geography.png)
 
 *Geography page showing regional variation: South West leads at 63.5%, East trails at 54.4%*
 
