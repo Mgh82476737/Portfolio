@@ -69,14 +69,9 @@ This repository contains an end-to-end data analytics project analyzing 12 month
 7. **Technical Build Guide** — Figma → Power BI workflow with pixel-level coordinates
 8. **Limitations & Caveats** — what the data does and doesn't show
 
-### 🎨 Design
-- **Figma Master Build Guide** — complete design system (palette, typography, grid, component anatomy)
-- **3 wireframes** — Page 1: The Gap | Page 2: Where the Backlog Lives | Page 3: The Independent Sector Lever
-- **Custom theme file** — colours, fonts, visual styles (JSON)
-- **PNG backgrounds** — exported at 2x scale for crisp display in Power BI
-
 ### 🛠️ Code & Data
 - **Power BI model** (`.pbix`) — star schema with all measures and formatting applied
+![Data Model](assets/Data_Model.png)
 - **Power Query transformations** — cleaning, de-duplication, exclusion logic
 - **DAX formulas** — time intelligence, conditional logic, What-If integration
 
