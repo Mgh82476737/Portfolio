@@ -84,5 +84,5 @@ assessment using real world data.
 
 ## Contact
 
-- LinkedIn: LinkedIn  
+- LinkedIn: [link here](https://www.linkedin.com/in/morteza-ghazanfari/)  
 - Data Analytics Lab: Data-Analytics-Lab repository
