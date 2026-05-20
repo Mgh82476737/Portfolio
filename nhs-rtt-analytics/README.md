@@ -195,20 +195,6 @@ See `LIMITATIONS.md` for full detail.
 
 ---
 
-## About the Author
-
-**Morteza Ghazanfari**  
-Power BI Specialist | Data Analyst  
-*Birmingham, UK*
-
-- 10+ years analytics experience (Data & Performance Analyst roles)
-- MSc Big Data Analytics (University of Derby)
-- Advanced DAX, star-schema modelling, Python, SQL
-- GitHub: [@Mgh82476737](https://github.com/Mgh82476737)
-- LinkedIn: [Morteza Ghazanfari](https://linkedin.com/in/morteza-ghazanfari)
-
----
-
 ## License
 
 MIT License — Use this project freely for learning and portfolio purposes.
