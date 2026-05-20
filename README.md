@@ -30,7 +30,20 @@ are maintained separately in a dedicated lab repository.
 
 ## Featured Projects
 
-### 1. Liquidity Risk and Cash Buffer Analysis
+### 1. NHS RTT Analytics Dashboard
+
+Healthcare performance analytics project analysing NHS Referral to Treatment (RTT) waiting list performance using Power BI, DAX, and star schema modelling.
+
+The project evaluates regional RTT performance, provider level variation, and treatment target compliance across NHS England pathways to identify operational bottlenecks and performance gaps.
+
+Focus: Healthcare analytics, operational performance, executive dashboarding
+
+Tools: Power BI, DAX, Power Query, Star Schema, Data Modelling
+
+🔗 Project: [link here](https://github.com/Mgh82476737/Portfolio/tree/main/nhs-rtt-analytics)
+
+---
+### 2. Liquidity Risk and Cash Buffer Analysis
 
 Decision focused analytics project analysing historical cash balance dynamics to assess downside liquidity risk, cash buffer resilience, and stress conditions.
 
@@ -43,7 +56,7 @@ The project applies analytical modelling techniques such as drawdown analysis an
 
 ---
 
-### 2. Pricing Analytics and Discount Strategy
+### 3. Pricing Analytics and Discount Strategy
 Pricing analytics project analysing the impact of discounting on profitability,
 identifying loss making products, and simulating pricing governance rules
 to support managerial decision making.
@@ -54,7 +67,7 @@ to support managerial decision making.
 
 ---
 
-### 3. Applied Machine Learning Classification
+### 4. Applied Machine Learning Classification
 Applied machine learning classification project focused on predictive risk
 assessment using real world data.
 
