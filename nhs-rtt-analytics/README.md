@@ -76,34 +76,6 @@ This repository contains an end-to-end data analytics project analyzing 12 month
 - **DAX formulas** — time intelligence, conditional logic, What-If integration
 
 ---
-
-## The Story
-
-### Page 1: **The Gap**
-*Establish the problem — system scale and headline tension*
-
-- **KPIs:** Total pathways (123M) | Currently waiting (104.9M) | % within 18W (58.4%) | Avg wait (18.2 weeks)
-- **Hero callout:** 33.6pp gap to the 92% NHS target
-- **Charts:** 12-month trend | RAG performance | Compliance trend | Wait-time distribution
-
-### Page 2: **Where the Backlog Lives**
-*Diagnose — the backlog concentrates in specific specialties and regions*
-
-- **KPIs:** Worst specialty (T&O 53.2%) | Worst region (East 54.4%) | 52+ week waiters (5.49M)
-- **Filters:** Specialty, Region, RTT Type (interactive slicers)
-- **Insight:** T&O carries 893K patients waiting 52+ weeks — 26% of all 2-year breaches
-- **Charts:** Top specialties by volume & compliance | Compliance by region | Specialty × region heatmap
-
-### Page 3: **The Independent Sector Lever**
-*Resolve — quantify the lever and project the impact*
-
-- **KPIs:** Independent share (5.91%) | Independent compliance (68.9%) | Gap vs NHS Trust (11.5pp)
-- **What-If scenario:** Drag slider from 5% to 30% to see projected impact
-- **Recommendation:** Shift Independent share from 5.9% to 15% → ~2.8M fewer breaches per year
-- **Charts:** NHS vs Independent by specialty | Projected impact simulation
-
----
-
 ## Technical Stack
 
 **Data Processing & Modelling:**
